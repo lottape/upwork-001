@@ -8,7 +8,7 @@ A jQuery plugin to embed Facebook Live Chat into your website, blog, or forum.
 
 ![Facebook Live Chat](http://i.imgur.com/nr4kKOf.png)
 
-## Example/Usage
+## Example/Usage TO and specific "M.I.T. License" "FACEBOOK Live Chat Jquery" use.
 
 ```html
 <!DOCTYPE html>
