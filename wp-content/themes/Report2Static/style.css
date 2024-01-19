@@ -35050,12 +35050,6 @@ a.u-link.u-text-hover-grey-90:hover {
     box-sizing: border-box;
 } 
 
-body {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin:50px auto;
-}
 
 .button {
     position: absolute;
