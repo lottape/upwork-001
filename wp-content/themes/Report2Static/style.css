@@ -35046,6 +35046,26 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
+* {
+    box-sizing: border-box;
+} 
+
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:50px auto;
+}
+
+.button {
+    position: absolute;
+    top:50%
+}
+
+.button:hover {
+      background-color:#677a8a;
+      transition: 0.7s;
+  }
     
 
 
